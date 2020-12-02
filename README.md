@@ -1,7 +1,7 @@
 # password-generator
 About this Project
 In this project we were given a starter code for a password generator. We were given the task of applying what we learned in week 3 to this project. The following was used to complete the given task
-
+<img src"images/Password.png"
 ~ Functions
 ~ Variables
 ~ Prompts and confirms
@@ -10,6 +10,5 @@ In this project we were given a starter code for a password generator. We were g
 ~ addEventListener
 
 https://github.com/gg2704/password-generator.git
-file:///C:/Users/xcgab/OneDrive/Documents/Homework%203/Homework3.html
 
 
